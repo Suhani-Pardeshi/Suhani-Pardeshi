@@ -107,3 +107,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=150&section=footer"/>
 </p>
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+✨ “Without data, you're just another person with an opinion.” ✨
+</p>
+
