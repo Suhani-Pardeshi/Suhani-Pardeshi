@@ -66,23 +66,7 @@
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,excel,powerbi,tableau,git,github,linux,docker,aws" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhanipardeshi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhanipardeshi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanipardeshi&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
