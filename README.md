@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">✨ Suhani Pardeshi ✨</h1>
-<h3 align="center">🚀 Data Analyst | AI Automation Engineer | Business Intelligence Specialist</h3>
+<h3 align="center">🚀 Data Analyst | AI Automation Engineer | Data Scientist</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
